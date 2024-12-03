@@ -1,0 +1,30 @@
+body {
+    background-color:#4362ba;
+    color: white;
+    font-family: "Parkinsans", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin:0
+;
+}
+
+button {
+    background-color: #769bff;
+    color: white;
+    font-family: "Parkinsans", sans-serif;
+}
+.passo {
+    display: none;
+}
+.passo.ativo {
+    display:block;
+}
+main {
+    text-align: center;
+    max-width: 90%;
+}
+img {
+    max-width: 90%;
+}
